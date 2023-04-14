@@ -1,2 +1,2 @@
 # Password-Manager
-A basic password manager written in C implementing security measures. 
+A basic password manager written in Rust implementing security measures. 
